@@ -6,7 +6,7 @@ With an ambitious goal of working for NASA someday, I spend a lot of time cruisi
 
 ## Results: 
 ---
-Tools used:
+### Tools used:
 -   Python
 -   Beautiful Soup
 -   Splinter
@@ -16,21 +16,22 @@ Tools used:
 -   Bootstrap
 
 
-    1. Scraping with BeautifulSoup
-
-    My first step was identifying which websites I visit regularly have the most relevant news I'd like to display on my website. Once that was identified I wrote a Python script using Splinter and BeautifulSoup to scrape relevant items from my favorite webpages and store them in a Data dictionary.
     
+### 1. Scraping with BeautifulSoup
+    
+My first step was identifying which websites I visit regularly have the most relevant news I'd like to display on my website. Once that was identified I wrote a Python script using Splinter and BeautifulSoup to scrape relevant items from my favorite webpages and store them in a Data dictionary.
+
 ![scrape](./resources/scraping.PNG)
 
-    2. Hosting with Flask
-    
-    Once I had this Scraped information I used another Python script to load that Data dictionary into MongoDB and used Flask to host that locally on the web.
+### 2. Hosting with Flask
 
-![mongo](./resources/mongo.PNG)
+Once I had this Scraped information I used another Python script to load that Data dictionary into MongoDB and used Flask to host that locally on the web.
 
-    3. Formatting with Bootstrap
+![mongo](./resources/Mongo.PNG)
 
-    Finally, I used HTML, CSS and Bootstrap to write an HMTL code to use as the format for Flask to read and use as the finished product.
+### 3. Formatting with Bootstrap
+
+Finally, I used HTML, CSS and Bootstrap to write an HMTL code to use as the format for Flask to read and use as the finished product.
 
 ![web](./resources/web.PNG) 
 
