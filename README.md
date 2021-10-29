@@ -7,13 +7,13 @@ With an ambitious goal of working for NASA someday, I spend a lot of time cruisi
 ## Results: 
 ---
 Tools used:
-    -   Python
-    -   Beautiful Soup
-    -   Splinter
-    -   Flask
-    -   Mongo DB
-    -   HTML
-    -   Bootstrap
+-   Python
+-   Beautiful Soup
+-   Splinter
+-   Flask
+-   Mongo DB
+-   HTML
+-   Bootstrap
 
 
     1. Scraping with BeautifulSoup
